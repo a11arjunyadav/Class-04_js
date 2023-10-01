@@ -1,0 +1,9 @@
+div#box2{
+    width: 400px;
+    height: 400px;
+    background-color: green;
+    text-align: center;
+    line-height: 400px;
+    border-radius: 100px;
+    font-size: 40px;
+}
